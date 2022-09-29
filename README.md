@@ -1,4 +1,5 @@
 # cmpg323p3 <br />
+Project is on the Development branch <br />
 References<br />
 https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/ <br />
 https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ <br />
